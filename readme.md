@@ -10,7 +10,7 @@
 
   - Used Only **Html** and **CSS**
   - I learned a lot about flexbox.
-  - I learned to create menubar using grid.
+  - I learned to create menubar using the grid.
 
   <br>
 
@@ -18,4 +18,4 @@
 
 <br>
 
-> ## It took around 3 hours to complete and make this project **Mobiile** Responsive.
+> ## It took around 3 hours to complete and make this project **Mobile** Responsive.
